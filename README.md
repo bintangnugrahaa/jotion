@@ -1,6 +1,6 @@
 # Next.js 13, React, Convex, Tailwind
 
-![Copy of Copy of Copy]()
+![Copy of Copy of Copy](public/assets.jpeg)
 
 ### Cloning the repository
 
