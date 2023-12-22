@@ -19,7 +19,7 @@ npm install
 
 ```js
 # Deployment used by `npx convex dev`
-CONVEX_DEPLOYMENT=
+CONVEX_DEPLOYMENT=            # team: bintangnugrahaa, project: jotion-9505a
 NEXT_PUBLIC_CONVEX_URL=
 
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
